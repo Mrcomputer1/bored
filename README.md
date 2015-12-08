@@ -1,3 +1,5 @@
+# PLEASE SEE ILIKETOCODE'S REPO AT https://github.com/iliketocode/bored THIS ONE IS NEVER UPDATED!
+
 # [Bored Activities Site](https://iliketocode.github.io/bored/)
 
 ## Authors
